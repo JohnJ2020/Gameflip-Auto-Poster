@@ -1,11 +1,11 @@
 module.exports = {
 
-    discord: {
+    discord: {https://discord.gg/JCxn5kX7
         status: 'Gameflip AutoListing',
         statusType: 'PLAYING',
-        token: 'add your discord bot token here lol',
+        token: 'OTE2MTAzMTMxNDgwMzM4NDUz.YalRhg.GTQ04gI-TDtxJL5pWxSv_JQSa6U',
         prefix: '$',
-        ownerIDs: [], // add owner discord id here to grant premium
+        ownerIDs: [], //Comic’s Shop⚡134⚡#9242
         ownerOnly: false
     }
 
