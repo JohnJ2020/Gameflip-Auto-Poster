@@ -5,7 +5,7 @@ module.exports = {
         statusType: 'PLAYING',
         token: 'OTE2MTAzMTMxNDgwMzM4NDUz.YalRhg.GTQ04gI-TDtxJL5pWxSv_JQSa6U',
         prefix: '$',
-        ownerIDs: [], //Comic’s Shop⚡134⚡#9242
+        ownerIDs: [], //MEE6#4876
         ownerOnly: true
     }
 
